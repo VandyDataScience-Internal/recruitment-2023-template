@@ -27,10 +27,10 @@ Please do not hesitate to email us at jia.yin.leong@vanderbilt.edu (Adaline) and
 A: Sometime in the nearish-far future! No further commits will be accepted after the deadline has passed.
 
 **Q: What resources can I use?**
-A: Anything! Feel free to reference any textbook code solutions, tutorials, StackOverflow posts, and _friend who strongly suggests using a while loop instead of hard coding all the cases in line 374_, as well as Copilot and/or ChatGPT. Part of learning is not knowing how to solve problems, and we encourage you to find and use resources to overcome it! Keep in mind however, that learning is _not_ copying code verbatim from someone somwehere. Be prepared that in later stages we will be asking you to explain the solutions you have come up with in this assessment.
+A: Almost anything! Feel free to reference any textbook code solutions, tutorials, StackOverflow posts, and _friend who strongly suggests using a while loop instead of hard coding all the cases in line 374_. Part of learning is not knowing how to solve problems, and we encourage you to find and use resources to overcome it! Keep in mind however, that learning is _not_ copying code verbatim from someone somwehere. Because of this, the only exceptions to our 'almost anything' rule is generative AI such as ChatGPT and no code machine learning platforms such as AutoML. Be prepared that in later stages we will be asking you to explain the solutions you have come up with in this assessment.
 
 **Q: What language should I use?**
-A: The language you choose is up to you! Some languages are easier than others for certain problems however, _hint hint wink wink 😉_
+A: We highly recommend Python! Most of the projects we do during the year will use Python, and we will give bonus points to anyone who chooses to use Python in their assessment. Ultimately the language you choose is up to you, though keep in mind some languages are better suited for certain problems _hint hint wink wink 😉_
 
 **Q: How will I be graded?**
 A: Here is the criteria we will be judging on:
@@ -40,6 +40,8 @@ A: Here is the criteria we will be judging on:
     - If you left your code and came back to it three years later, could you still understand it?
 - Explanation
     - How clearly did you explain your thinking process and solution?
+- Bonus Points (will not hurt your application, only help it)
+    - Language used
 
 **Q: I finished the assessment, what next?**
 A: Congratulations on finishing the assessment!! Please submit your work on the [OA Website](Level 1) so we can review your work (unsubmited work, even if it is completed, will not be evaluated). After (end day), we will begin judging all submissions and you can expect an email from us within 1-2 weeks. This is the stage where we will be sending out invitations to interviews!
