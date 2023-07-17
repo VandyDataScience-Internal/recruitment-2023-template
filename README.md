@@ -13,9 +13,10 @@ The main goal of this assessment is for us to assess your comfort with using dat
 
 ## The Challenge
 
-This challenge runs from (start day) to (end day), which means that you'll have until (end day) to finish AND submit your assignment. <u>You must submit your work through the [OA Website](Level 1).</u> **Unsubmitted work, even if it is completed, will unfortunately not be considered**.
+This challenge runs from (start day) to (end day), which means that you'll have until (end day) to finish AND submit your assignment. <u>You must submit your work through the [OA Website](Level 1).</u> **Any work submitted after the due date will not be considered**.
 
-There are three levels, head to [Level 1](Level 1/README.md), [Level 2](Level 2/README.md), and [Level 3](Level 3/README.md) to learn more about each problem. 
+There are three levels, with each level directly building off of the last in order to create one full project.
+You can start by going to [Level 1](Level 1/README.md), [Level 2](Level 2/README.md), and [Level 3](Level 3/README.md) to learn the specifics of each problem. 
 
 Good luck!!! You got this 😁😁
 
@@ -36,7 +37,7 @@ A: We highly recommend Python! Most of the projects we do during the year will u
 A: Here is the criteria we will be judging on:
 - Problem Solution
     - Does the solution you chose make sense in context of the problem? 
-- Code Readibility
+- Code Readability
     - If you left your code and came back to it three years later, could you still understand it?
 - Explanation
     - How clearly did you explain your thinking process and solution?
@@ -44,4 +45,5 @@ A: Here is the criteria we will be judging on:
     - Language used
 
 **Q: I finished the assessment, what next?**
-A: Congratulations on finishing the assessment!! Please submit your work on the [OA Website](Level 1) so we can review your work (unsubmited work, even if it is completed, will not be evaluated). After (end day), we will begin judging all submissions and you can expect an email from us within 1-2 weeks. This is the stage where we will be sending out invitations to interviews!
+A: Congratulations on finishing the assessment!! 
+Please submit your work on the [OA Website](Level 1) so we can review your work (unsubmited work, even if it is completed, will not be evaluated). After (end day), we will begin judging all submissions and you can expect an email from us within 1-2 weeks. This is the stage where we will be sending out invitations to interviews!
