@@ -26,7 +26,7 @@ Level 2 is your opportunity to **show what you know** about model building! We h
 
 - Utilize a random 80/20 train/test split to train the model (note that you will use the test set in Level 3)
 
-- **Comment on every major component of your program.** part of our grading process will be on how thorough and understandable your commenting is 
+- **Comment on every major component of your program.** part of our grading process will be on how thorough and understandable your commenting is
 
 ## Though the following components are not required, excellent submissions will:
 
