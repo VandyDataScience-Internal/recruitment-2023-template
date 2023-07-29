@@ -1,6 +1,6 @@
 # 🙌 Welcome to Level 2 of the 2023 EM/Dev Assessment! 🙌
 
-By now, you should have a clean dataset from your completion of the tasks in Level 1. In Levels 2 and 3, you will be extracting insights from this dataset by answering a research question **of your choosing**.
+By now, you should have a clean dataset from your completion of Level 1. In Levels 2 and 3, you will be extracting insights from this dataset by answering a research question **of your choosing**.
 
 ## Your output from Level 2 should:
 
@@ -26,7 +26,7 @@ Level 2 is your opportunity to **show what you know** about model building! We h
 
 - Utilize a random 80/20 train/test split to train the model (note that you will use the test set in Level 3)
 
-- **Provide a comment on every code chunk** to help us understand your thought process **(Models without sufficient commentary will be penalized!)**
+- **Comment on every major component of your program.** part of our grading process will be on how thorough and understandable your commenting is
 
 ## Though the following components are not required, excellent submissions will:
 
