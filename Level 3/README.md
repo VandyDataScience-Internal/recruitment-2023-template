@@ -13,6 +13,8 @@ Your output for Level 3 should assess the:
 
 of your model. Make sure that you are describing the meaning of these metrics in the context of your research question as well as showing your work in calculating these results.
 
+**Submission:** Your submission should be a markdown file titled `level3.md` that is located in the `Level 3` folder of this repository. This file should contain the descriptions from above, and any relevant files used should be included in the `Level 3` folder.
+
 **Bonus Points:** Create a confusion matrix for your model and explain how it relates to accuracy, precision, recall, and F1 score.
 
 ## Rubric:
