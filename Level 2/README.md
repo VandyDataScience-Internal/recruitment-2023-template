@@ -26,7 +26,7 @@ Level 2 is your opportunity to **show what you know** about model building! We h
 
 ## When building your model, you must:
 
-- Utilize a random 80/20 train/test split to train the model (Note that you will use the test set in Level 3)
+- Utilize a random 80/20 train/test split to train the model (**Hint:** You will use the test set in Level 3!)
 
 - **Comment on every major component of your program.** During our grading process, we will assess how thorough and understandable your commenting is.
 
