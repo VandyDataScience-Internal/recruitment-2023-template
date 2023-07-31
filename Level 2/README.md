@@ -42,7 +42,7 @@ Level 2 is your opportunity to **show what you know** about model building! We h
 
 - Utilize bootstrapping
 
-## Some relevant resources on building logistic regression models:
+## Resources on building logistic regression models:
 
 - https://realpython.com/logistic-regression-python/
 
