@@ -24,7 +24,9 @@ Your **research question** should address the independent and dependent variable
 
 - Based on different characteristics of exoplanets, can we correctly classify whether an exoplanet is a “Super Earth” or “Gas Giant”?
 
-## When building your model, you must:
+## Model requirements:
+
+When building your model, **you must**:
 
 - Utilize a random 80/20 train/test split to train the model (**Hint:** You will use your test set in Level 3!)
 
