@@ -1,4 +1,4 @@
-# 🌺 Welcome to Level 3 of the 2023 EM/Dev Assessment! 🌺
+# 🦩 Welcome to Level 3 of the 2023 EM/Dev Assessment! 🦩
 
 Congratulations on finishing Levels 1 and 2! In Level 3, we will be **evaluating the model** that you have built in Level 2.
 

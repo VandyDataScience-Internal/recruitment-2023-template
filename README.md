@@ -2,7 +2,7 @@
 Deadline: Some time in the nearish-far future
 
 
-# 👩‍💻 VandyDataScience EM/Dev Assessment 2023 👩‍💻
+# 🏝️👩‍💻 VandyDataScience EM/Dev Assessment 2023 👩‍💻🏝️
 
 Heya amazing person! This is the coding assessment for the EM/Dev position in VandyDataScience (or VDS), an undergraduate student organization dedicated to making a positive difference in our local community through the power of numbers📊. So if you're here because you're interested in joining us this 2023 year, you're in the right place! And we want to take this chance to sincerely thank you for being interested in us 😊😊.
 
