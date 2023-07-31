@@ -11,7 +11,7 @@ Your output for Level 3 should assess the:
     3. Recall
     4. F1 score
 
-of your model. Make sure that you are describing the meaning of these metrics in the context of your research question as well as showing your work in calculating these results.
+of your model. Make sure that you are describing the meaning of these metrics in the context of your research question as well as showing your work in calculating these results. Your test set from level 2 will come in handy!
 
 **Submission:** Your submission should be a markdown file titled `level3.md` that is located in the `Level 3` folder of this repository. This file should contain the descriptions from above, and any relevant files used should be included in the `Level 3` folder.
 
