@@ -14,9 +14,9 @@ Your output from Level 2 should:
 
 All of the above components should be contained in a `.py` file.
 
-Your **research question** should address the independent and dependent variables you have chosen to utilize in your model.
+## Research question examples:
 
-## Some examples of well-formulated research questions:
+Your **research question** should address the independent and dependent variables you have chosen to utilize in your model. Some examples of well-formulated research questions are:
 
 - Can we accurately classify different species of plants based on leaf characteristics and botanical features?
 
