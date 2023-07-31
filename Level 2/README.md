@@ -4,23 +4,21 @@ By now, you should have a clean dataset from your completion of Level 1. In Leve
 
 ## Objective:
 
-You will need to:
+Your output from Level 2 should:
 
-1. Define all variables of interest (independent variable(s), dependent variable)
+- Define all variables of interest (independent variable(s), dependent variable)
 
-2. Formulate a **relevant research question** (to be answered in your analysis in Level 3)
+- Forumulate a **relevant research question** (to be answered in your analysis in Level 3)
 
-3. Build a simple **logistic** regression model
+- Build a simple **logistic** regression model
 
 All of the above components should be contained in a `.py` file.
-
-Your **research question** should address the independent and dependent variables you have chosen to utilize in your model.
 
 Level 2 is your opportunity to **show what you know** about model building! We have intentionally chosen to keep the requirements flexible to allow you to build your model in a way you are most comfortable/knowledgeable.
 
 ## Requirements:
-
-- Utilize a random 80/20 train/test split to train the model (Note that you will use the test set in Level 3)
+You Must:
+- Utilize a random 80/20 train/test split to train the model (**Hint:** You will use your test set in Level 3!)
 
 - **Comment on every major component of your program.** During our grading process, we will assess how thorough and understandable your commenting is.
 
@@ -38,13 +36,15 @@ Level 2 is your opportunity to **show what you know** about model building! We h
 
 ## Resources
 
-### Some examples of well-formulated research questions:
+### On research questions:
 
-- Is the median price of a house in Nashville related to the number of houses available, median number of days houses are on the market, number of houses with price increases/decreases, and number of houses pending listing?
+Your **research question** should address the independent and dependent variables you have chosen to utilize in your model. Some examples of well-formulated research questions are:
+
+- Can we accurately classify different species of plants based on leaf characteristics and botanical features?
 
 - Based on different characteristics of exoplanets, can we correctly classify whether an exoplanet is a “Super Earth” or “Gas Giant”?
 
-### Some relevant resources on building linear and logistic regression models:
+### On building logistic regression models:
 
 - https://realpython.com/logistic-regression-python/
 
