@@ -2,7 +2,7 @@
 
 By now, you should have a clean dataset from your completion of Level 1. In Levels 2 and 3, you will be extracting insights from this dataset by answering a research question **of your choosing**.
 
-## Objective
+## Objective:
 
 Your output from Level 2 should:
 
