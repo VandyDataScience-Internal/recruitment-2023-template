@@ -2,6 +2,8 @@
 
 By now, you should have a clean dataset from your completion of Level 1. In Levels 2 and 3, you will be extracting insights from this dataset by answering a research question **of your choosing**.
 
+Level 2 is your opportunity to **show what you know** about model building! We have intentionally chosen to keep the requirements flexible to allow you to build your model in a way you are most comfortable/knowledgeable.
+
 ## Objective:
 
 Your output from Level 2 should:
@@ -21,8 +23,6 @@ Your **research question** should address the independent and dependent variable
 - Can we accurately classify different species of plants based on leaf characteristics and botanical features?
 
 - Based on different characteristics of exoplanets, can we correctly classify whether an exoplanet is a “Super Earth” or “Gas Giant”?
-
-Level 2 is your opportunity to **show what you know** about model building! We have intentionally chosen to keep the requirements flexible to allow you to build your model in a way you are most comfortable/knowledgeable.
 
 ## When building your model, you must:
 
