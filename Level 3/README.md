@@ -1,8 +1,8 @@
-# 🙌 Welcome to Level 3 of the 2023 EM/Dev Assessment! 🙌
+# 🌺 Welcome to Level 3 of the 2023 EM/Dev Assessment! 🌺
 
 Congratulations on finishing Levels 1 and 2! In Level 3, we will be **evaluating the model** that you have built in Level 2.
 
-## Output:
+## Objective:
 
 Your output for Level 3 should assess the:
 
@@ -17,7 +17,7 @@ of your model. Make sure that you are describing the meaning of these metrics in
 
 **Bonus Points:** Create a confusion matrix for your model and explain how it relates to accuracy, precision, recall, and F1 score.
 
-## Rubric:
+## You Will Be Graded On:
 
 We will be scoring you on the following categories:
 - Explanation
@@ -27,7 +27,7 @@ We will be scoring you on the following categories:
 
 **Note:** Overexplaining is better than underexplaining! Leave no words unsaid
 
-## Resources:
+## Resources and Helpful Tips:
 
 - [What do these metrics mean anyways?](https://medium.com/analytics-vidhya/confusion-matrix-accuracy-precision-recall-f1-score-ade299cf63cd)
 - [Accuracy](https://developers.google.com/machine-learning/crash-course/classification/accuracy) and [Precision and Recall](https://developers.google.com/machine-learning/crash-course/classification/precision-and-recall)
