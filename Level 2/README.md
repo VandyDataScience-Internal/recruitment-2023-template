@@ -10,7 +10,7 @@ By now, you should have a clean dataset from your completion of Level 1. In Leve
 
 3. Build a simple **linear** or **logistic** regression model
 
-All of the above components should be contained in a `.py` file. Your final submission should be submitted to XXXX folder.
+All of the above components should be contained in a `.py` file.
 
 Your **research question** should address the independent and dependent variables you have chosen to utilize in your model.
 
@@ -22,11 +22,11 @@ Your **research question** should address the independent and dependent variable
 
 Level 2 is your opportunity to **show what you know** about model building! We have intentionally chosen to keep the requirements flexible to allow you to build your model in a way you are most comfortable/knowledgeable.
 
-## However, when building your model, you must:
+## When building your model, you must:
 
-- Utilize a random 80/20 train/test split to train the model (note that you will use the test set in Level 3)
+- Utilize a random 80/20 train/test split to train the model (Note that you will use the test set in Level 3)
 
-- **Comment on every major component of your program.** part of our grading process will be on how thorough and understandable your commenting is
+- **Comment on every major component of your program.** Part of our grading process will involve an assessment of how thorough and understandable your commenting is.
 
 ## Though the following components are not required, excellent submissions will:
 
