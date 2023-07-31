@@ -2,13 +2,15 @@
 
 By now, you should have a clean dataset from your completion of Level 1. In Levels 2 and 3, you will be extracting insights from this dataset by answering a research question **of your choosing**.
 
-## Your output from Level 2 should:
+## Objective
 
-1. Define all variables of interest (independent variable(s), dependent variable)
+Your output from Level 2 should:
 
-2. Forumulate a **relevant research question** (to be answered in your analysis in Level 3)
+- Define all variables of interest (independent variable(s), dependent variable)
 
-3. Build a simple **logistic** regression model
+- Forumulate a **relevant research question** (to be answered in your analysis in Level 3)
+
+- Build a simple **logistic** regression model
 
 All of the above components should be contained in a `.py` file.
 
