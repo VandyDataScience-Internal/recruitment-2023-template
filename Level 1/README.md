@@ -32,26 +32,6 @@ also meant to be a simple primer for data analysis, so don't overthink it!
 - Comments on, at minimum, every major program component.
 
 
-## How do I find a data set?
-If you don't know where to start, there are plenty of online databases for finding
-datasets. [Kaggle](https://www.kaggle.com/) is a great source of curated databases, and 
-[data.gov](data.gov) has databases from the US government. Search engines are also encouraged
-to find datasets. We allow for a lot of flexibility on where you can get data: no sources are completely
-off-limits, however part of our grading will be based on the quality and validity of your
-source. Think about stuff like the data's sample size, documentation, formatting, and credibility.
-
-
-## How do I clean a data set?
-Unless you want to agonize through hundreds of hours scrolling down an Excel spreadsheet, data is cleaned
-using programs specifically made to filter through keywords in formatted datasets.
-[this article](https://www.tableau.com/learn/articles/what-is-data-cleaning)
-explains what cleaning data is and steps that can be taken, and
-[this article](https://towardsdatascience.com/so-youve-got-a-dataset-here-s-how-you-clean-it-5d0b04a2ed86)
-has many specific cleaning programs that can be done in python. Google is your friend! 
-How data is cleaned depends on the format and type of the dataset, but python has very extensive and intuitive support in 
-data management, making it ideal for data science.
-
-
 ## You will be graded on:
 - The quality of the dataset chosen and your reasoning behind choosing it.
 - How thoroughly the dataset has been cleaned, and how many steps are made to ensure the
@@ -61,6 +41,26 @@ data management, making it ideal for data science.
   code.
 - The quality of your code, with proper and effective methods used for dataset cleaning.
 - Following proper and thorough commenting etiquette.
+
+## Resources
+  ### How do I find a data set?
+  If you don't know where to start, there are plenty of online databases for finding
+  datasets. [Kaggle](https://www.kaggle.com/) is a great source of curated databases, and
+  [data.gov](data.gov) has databases from the US government. Search engines are also encouraged
+  to find datasets. We allow for a lot of flexibility on where you can get data: no sources are completely
+  off-limits, however part of our grading will be based on the quality and validity of your
+  source. Think about stuff like the data's sample size, documentation, formatting, and credibility.
+  
+  
+  ### How do I clean a data set?
+  Unless you want to agonize through hundreds of hours scrolling down an Excel spreadsheet, data is cleaned
+  using programs specifically made to filter through keywords in formatted datasets.
+  [this article](https://www.tableau.com/learn/articles/what-is-data-cleaning)
+  explains what cleaning data is and steps that can be taken, and
+  [this article](https://towardsdatascience.com/so-youve-got-a-dataset-here-s-how-you-clean-it-5d0b04a2ed86)
+  has many specific cleaning programs that can be done in python. Google is your friend!
+  How data is cleaned depends on the format and type of the dataset, but python has very extensive and intuitive support in
+  data management, making it ideal for data science.
 
 
 

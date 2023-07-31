@@ -2,7 +2,7 @@
 
 Congratulations on finishing Levels 1 and 2! In Level 3, we will be **evaluating the model** that you have built in Level 2.
 
-## Output:
+## Objective:
 
 Your output for Level 3 should assess the:
 
@@ -15,15 +15,13 @@ of your model. Make sure that you are describing the meaning of these metrics in
 
 **Bonus Points:** Create a confusion matrix for your model and explain how it relates to accuracy, precision, recall, and F1 score.
 
-## Rubric:
-
-We will be scoring you on the following categories:
+## You will be graded on:
 - Explanation
     - How clearly did you explain your results?
 - Code Readability
     - How easy is it to understand your code?
 
-**Note:** Overexplaining is better than underexplaining! Leave no words unsaid
+**Note:** Over-explaining is better than under-explaining, leave no words left unsaid!
 
 ## Resources:
 
