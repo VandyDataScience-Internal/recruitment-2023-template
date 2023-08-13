@@ -26,7 +26,7 @@ Your **research question** should address the independent and dependent variable
 
 ## Requirements:
 
-You Must:
+You must:
 
 - Utilize a random 80/20 train/test split to train the model (**Hint:** You will use your test set in Level 3!)
 
