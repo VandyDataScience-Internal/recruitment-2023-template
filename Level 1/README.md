@@ -2,7 +2,7 @@
 This is the first and beginning level of the vanderbilt data science dev assignment! In this level,
 you will be finding and cleaning a dataset so that it can be used for later analysis.
 <br> 
-remember that you will be using this dataset in further levels to solve a research 
+Remember that you will be using this dataset in further levels to solve a research 
 question and build data models, so data cleaned in this level should be fully usable
 by the next level. Chose data that interests you, and get creative!
 
