@@ -55,7 +55,7 @@ also meant to be a simple primer for data analysis, so don't overthink it!
   ### How do I clean a data set?
   Unless you want to agonize through hundreds of hours scrolling down an Excel spreadsheet, data is cleaned
   using programs specifically made to filter through keywords in formatted datasets.
-  [this article](https://www.tableau.com/learn/articles/what-is-data-cleaning)
+  [This article](https://www.tableau.com/learn/articles/what-is-data-cleaning)
   explains what cleaning data is and steps that can be taken, and
   [this article](https://towardsdatascience.com/so-youve-got-a-dataset-here-s-how-you-clean-it-5d0b04a2ed86)
   has many specific cleaning programs that can be done in python. Google is your friend!
