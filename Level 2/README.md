@@ -16,14 +16,6 @@ All of the above components should be contained in a `.py` file. You will also b
 
 Level 2 is your opportunity to **show what you know** about model building! We have intentionally chosen to keep the requirements flexible to allow you to build your model in a way you are most comfortable/knowledgeable.
 
-## Research question examples:
-
-Your **research question** should address the independent and dependent variables you have chosen to utilize in your model. Some examples of well-formulated research questions are:
-
-- Can we accurately classify different species of plants based on leaf characteristics and botanical features?
-
-- Based on different characteristics of exoplanets, can we correctly classify whether an exoplanet is a “Super Earth” or “Gas Giant”?
-
 ## Requirements:
 
 You must:
