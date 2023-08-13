@@ -12,7 +12,7 @@ Your output from Level 2 should:
 
 - Build a simple **logistic** regression model
 
-All of the above components should be contained in a `.py` file. You will also be submitting the your test set as a `.csv` file, which you'll need for Level 3!
+All of the above components should be contained in a `.py` file. You will also be submitting your test set as a `.csv` file, which you'll need for Level 3!
 
 Level 2 is your opportunity to **show what you know** about model building! We have intentionally chosen to keep the requirements flexible to allow you to build your model in a way you are most comfortable/knowledgeable.
 
