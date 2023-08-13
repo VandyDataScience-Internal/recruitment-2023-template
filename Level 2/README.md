@@ -48,6 +48,8 @@ Your **research question** should address the independent and dependent variable
 
 ### On building logistic regression models:
 
+Visit the links below for additional guidance on building logistic regression models in Python:
+
 - https://realpython.com/logistic-regression-python/
 
 - https://www.w3schools.com/python/python_ml_logistic_regression.asp
