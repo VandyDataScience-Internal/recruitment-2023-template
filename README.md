@@ -13,7 +13,7 @@ The main goal of this assessment is for us to assess your comfort with using dat
 
 ## The Challenge
 
-This challenge runs from (start day) to (end day), which means that you'll have until (end day) to finish AND submit your assignment. <u>You must submit your work through the [OA Website](Level 1).</u> **Any work submitted after the due date will not be considered**.
+This challenge runs from 9/26 to 10/16, which means that you'll have until 10/16 at 11:59pm to finish AND submit your assignment. <u>You must submit your work through the [OA Website](Level 1).</u> **Any work submitted after the due date will not be considered**.
 
 There are three levels, with each level directly building off of the last in order to create one full project.
 You can start by going to [Level 1](Level 1/README.md), [Level 2](Level 2/README.md), and [Level 3](Level 3/README.md) to learn the specifics of each problem. 
