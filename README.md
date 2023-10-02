@@ -1,5 +1,5 @@
 
-Deadline: Some time in the nearish-far future
+Deadline: 10/16 at 11:59 pm
 
 
 # 🏝️👩‍💻 VandyDataScience EM/Dev Assessment 2023 👩‍💻🏝️
