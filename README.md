@@ -13,14 +13,14 @@ The main goal of this assessment is for us to assess your comfort with using dat
 
 ## The Challenge
 
-This challenge runs from 9/26 to 10/16, which means that you'll have until 10/16 at 11:59pm to finish AND submit your assignment. <u>You must submit your work through the [OA Website](https://vandydatascience-internal.github.io/).</u> **Any work submitted after the due date will not be considered**.
+This challenge runs from 10/2 to 10/16, which means that you'll have until 10/16 at 11:59pm to finish AND submit your assignment. <u>You must submit your work through the [OA Website](https://vandydatascience-internal.github.io/).</u> **Any work submitted after the due date will not be considered**.
 
 There are three levels, with each level directly building off of the last in order to create one full project.
-You can start by going to [Level 1](Level_1/README.md), [Level 2](Level_2/README.md), and [Level 3](Level_3/README.md) to learn the specifics of each problem. 
+You can start by going to [Level 1](Level_1/README.md), [Level 2](Level_2/README.md), and [Level 3](Level_3/README.md) to learn the specifics of each problem. All of your notebooks (most of you will have just one) should be in the [Notebook(s)](Notebook(s)) folder, notebooks are files titled (name).py or (name).ipynb. Each level is meant to guide you through the process of cleaning a dataset, creating a model to solve a problem, and evaluating the model that you have created. The code used to solve each of these levels should be in the aforementioned folder, though each level will have a mini challenge you should submit (the directions are in each level).
 
 Good luck!!! You got this 😁😁
 
-## Questions
+## FAQ
 
 Please do not hesitate to email [Adaline](jia.yin.leong@vanderbilt.edu), [Brooke](brooke.m.stevens@vanderbilt.edu), and [Chloe](chloe.p.nixon@vanderbilt.edu) if you have any questions whatsoever about this assessemnt, VandyDataScience, or life.
 
@@ -42,7 +42,7 @@ A: Here is the criteria we will be judging on:
 - Explanation
     - How clearly did you explain your thinking process and solution?
 - Bonus Points (will not hurt your application, only help it)
-    - Language used
+    - Explained in each level!
 
 **Q: I finished the assessment, what next?**
 A: Congratulations on finishing the assessment!! 

@@ -1,34 +1,26 @@
 # 🦩 Welcome to Level 3 of the 2023 EM/Dev Assessment! 🦩
 
-Congratulations on finishing Levels 1 and 2! In Level 3, we will be **evaluating the model** that you have built in Level 2.
+Congratulations on finishing Levels 1 and 2 🥳🥳! By now you should have chosen a focus question and created a model to solve that question. In Level 3, we will be evaluating this model!
+
 
 ## Objective:
 
-Your output for Level 3 should assess the:
+This is the final step in creating a model! If you'll to how different algorithms are better suited for specific focus questions, there are specific evaluation metrics that are better suited for different types of focus question categories. <br><br>
+As we have done for levels 1 and 2, you should write a readme file that answers these questions:
+- What evaluation metrics did you choose to use?
+- What was the score you got for each of these metrics?
+- Mention any resources you used to help you in this portion of the challenge (we love links!).
+- Any extra information you'd like to include
 
-    1. Accuracy
-    2. Precision 
-    3. Recall
-    4. F1 score
+## Submission:
+In this folder, you should put the answers from the objective section in a filed called <b>'[name].md'</b> (with the name replaced with yours i.e. janeDoe.md). The code you are using to load the dataset you choose as well as clean the dataset should be located in the [Notebook(s)](/Notebook(s)/) folder, you may title this notebook as you wish.
 
-of your model. Make sure that you are describing the meaning of these metrics in the context of your research question as well as showing your work in calculating these results. Your test set from level 2 will come in handy!
+## Bonus Points!! 💃💃
++1 point for explaining why a specific evaluation metric is useful for the focus question you chose<br>
++1 point for describing what an evaluation metric means in real world terms (in context of your focus question)<br>
++1 point for very nice code comments (up to the grader's discretion)<br>
 
-**Submission:** Your submission should be a markdown file titled `level3.md` that is located in the `Level 3` folder of this repository. This file should contain the descriptions from above, and any relevant files used should be included in the `Level 3` folder.
+## Tips and Tricks
+**How do I start??** For optimal Google search results, try searching '(focus question category) evaluation metrics' i.e. 'classification metrics' *hint hint*<br><br>
 
-**Bonus Points:** Create a confusion matrix for your model and explain how it relates to accuracy, precision, recall, and F1 score.
-
-## You Will Be Graded On:
-- Explanation
-    - How clearly did you explain your results?
-- Code Readability
-    - How easy is it to understand your code?
-
-**Note:** Over-explaining is better than under-explaining, leave no words left unsaid!
-
-## Resources:
-
-- [What do these metrics mean anyways?](https://medium.com/analytics-vidhya/confusion-matrix-accuracy-precision-recall-f1-score-ade299cf63cd)
-- [Accuracy](https://developers.google.com/machine-learning/crash-course/classification/accuracy) and [Precision and Recall](https://developers.google.com/machine-learning/crash-course/classification/precision-and-recall)
-- [Confusion Matrix](https://towardsdatascience.com/understanding-confusion-matrix-a9ad42dcfd62)
-
-
+**I'm still confused!** No worries! If a cursory Google search doesn't help, feel free to reach out to us and we'll be happy to help you out. This is the hardest part of the coding challenge and we want to make sure you have all the resources you need!
